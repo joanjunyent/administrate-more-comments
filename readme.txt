@@ -5,13 +5,13 @@ Author URI: http://junyent.org/
 Contributors: jjunyent
 Donate link: http://projectes.junyent.org/
 Plugin URI: http://projectes.junyent.org/administrate-more-comments/
-Version: 0.2
+Version: 0.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: comments, admin
 Requires at least: 2.6
 Tested up to: 3.6
-Stable tag: 0.2
+Stable tag: 0.2.1
 
 == Description ==
 
@@ -54,7 +54,7 @@ This plugin is free software. You can redistribute it and/or modify it under the
 
 == Changelog ==
 
-= 0.2 =
+= 0.2.1 =
 * Updated plugin metadata. This plugin will be no longer updated.
 = 0.1.1 =
 * Fixed some typos

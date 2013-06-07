@@ -4,7 +4,7 @@ Plugin Name: Administrate more comments
 Plugin Script: admin-more-comments.php
 Plugin URI: http://projectes.junyent.org/administrate-more-comments/
 Description: A WordPress plugin designed to set-up the number of comments per page shown in the admin area. 
-Version: 0.2
+Version: 0.2.1
 License: GPLv2 or later
 Author: Joan Junyent
 Author URI: http://junyent.org/
@@ -13,7 +13,7 @@ Donate link: http://projectes.junyent.org/
 
 
 === RELEASE NOTES ===
-2013-06-06 - v.0.2 - Plugin metadata update. This plugin will be no longer updated.
+2013-06-06 - v.0.2.1 - Plugin metadata update. This plugin will be no longer updated.
 2009-01-11 - v0.1.1 -	Typo fixing	
 2009-01-04 - v0.1 - first version. Code taken from anieto2k and Ayuda Wordpress
 			http://www.anieto2k.com/2008/12/22/cambia-la-cantidad-de-comentarios-del-panel-de-administracion/
