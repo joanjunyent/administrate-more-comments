@@ -33,11 +33,14 @@ Essentially it applies a filter that allows you to customize the number of comme
 
 == Frequently Asked Questions ==
 
-Q. How do I change the number of comments shown per page in the admin panel?
-A. By default WordPress sets to 20 the number of comments it shows per page in the admin panel.
+= How do I change the number of comments shown per page in the admin panel? =
+
+By default WordPress sets to 20 the number of comments it shows per page in the admin panel.
 If you activated this plugin it will set by default 100 comments per page.
-Q. But I want a number of comment per page different thant 100
-A. You just need to modify the line 43 of admin-more-comments.php and change 100 to the desired value.
+
+= But I want a number of comment per page different thant 100 =
+
+You just need to modify the line 43 of admin-more-comments.php and change 100 to the desired value.
 
 == Screenshots ==
 
