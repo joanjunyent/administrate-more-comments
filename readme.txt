@@ -10,16 +10,16 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: comments, admin
 Requires at least: 2.6
-Tested up to: 3.6
+Tested up to: 4.4
 Stable tag: 0.2.1
 
 == Description ==
 
-Administrate more comments was a WordPress plugin designed to set-up the number of comments per page shown in the admin area. 
+Administrate more comments was a WordPress plugin designed to set-up the number of comments per page shown in the admin area.
 
 Essentially it applies a filter that allows you to customize the number of comments shown per page on the admin panel.
 
-**This plugin is no needed anymore and no updated anymore since this function has been added to the WordPress core.** *I leave it here as it may be useful for some projects on locked-in and less customizable dashboards.*
+**This plugin is no needed anymore and no updated anymore since this function has been added to the WordPress core.** *I leave it here as it may be useful for some projects on locked-in and less customizable dashboards.**
 
 
 
@@ -49,9 +49,9 @@ You just need to modify the line 43 of admin-more-comments.php and change 100 to
 == Usage ==
 
 1. Activate and go!
-	 	
+
 == License ==
-	
+
 This plugin is free software. You can redistribute it and/or modify it under the terms of the GPL License (don't remove credits to author, please). See license.txt for details
 
 
